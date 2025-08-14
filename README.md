@@ -1,2 +1,4 @@
 # rockPaperScissors
-Rock paper scissors gsme
+Rock paper scissors game
+a practice of my JS skills
+
